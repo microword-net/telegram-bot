@@ -3,7 +3,7 @@
 This Python bot script is a versatile tool designed to enhance communication and automation on the Telegram platform. It offers a range of features to facilitate interactions, provide information, and report unauthorized access attempts.
 
 Installation:
-1. git clone [https://github.com/seccontinuity](https://github.com/microword-net/telegram-bot/tbot.git
+1. git clone https://github.com/microword-net/telegram-bot/tbot.git
 2. Now Follow the instructions in HOW TO USE Section.
 
 
