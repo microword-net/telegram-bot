@@ -2,6 +2,11 @@
 
 This Python bot script is a versatile tool designed to enhance communication and automation on the Telegram platform. It offers a range of features to facilitate interactions, provide information, and report unauthorized access attempts.
 
+Installation:
+1. git clone [https://github.com/seccontinuity](https://github.com/microword-net/telegram-bot/tbot.git
+2. Now Follow the instructions in HOW TO USE Section.
+
+
 Key Features:
 
 Telegram Bot Integration: The bot script integrates seamlessly with the Telegram platform, allowing users to interact with it via chat.
@@ -41,6 +46,7 @@ System Information: Provide system information to users.
 Automation: Extend the bot's functionality to automate tasks and provide quick responses.
 
 User Assistance: Offer helpful information and assistance with user queries.
+
 
 Contributions:
 
